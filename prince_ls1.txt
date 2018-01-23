@@ -1,0 +1,40 @@
+1.To insert press 'i'.
+2.Press 'Esc'  for command mode.
+3.x-to delete.
+4.u-to undo.
+5.CTRL R to redo.
+6.A-append text at the end.
+7.:wq-to save and exit.
+8.:ql-to trash all changes.
+9.dw-move the cursor to the beginning of the word to delete that word.
+10.2w-move cursor 2 words forward.
+11.3e-move cursor to end of the 3rd word forward.
+12.0(zero)-to move to the start of the line.
+13.d2w-delete 2 words.
+14.dd-delete the line.
+15.2dd-delete to line.
+16.p-puts deleted text after cursor.
+17.r-replace
+18.ce-to change unto the end of a word.
+19.ce-deletes the word and places in insert mode.
+20.G-move to the bottom of the file.
+21.gg-move to the start of the file.
+22.%-to find a matching.
+23.:s/old/new/g-to substitute'new'for'old'.
+24./-backward search n to find next occurence and N to search in opposite direction.
+25.?-forward search.
+26.:|-to run shell commands like :|dir,:|ls.
+27.:w-save the file.
+28.v-starts visual mode.
+29.:r filename-insert content into current file.
+30.R-replace more than one character.
+31.y-to copy text.
+32.p-paste text.
+33.yw-(copy)yanks one word.
+34.o-opens a line below cursor and start insert mode.
+35.O-opens a line above cursor.
+36.a-inserts text after cursor.
+37.A-inserts text after the end of line.
+38.e-moves to the end of the word.
+39.CTRL w to jump from one window to another.
+
