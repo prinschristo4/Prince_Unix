@@ -1,0 +1,16 @@
+UNIX Lab session-02
+Commands
+1.mkdir- creates directory.
+2.cd- command.
+3.man- shows commands manual.
+4.who- shows the information of the logged in user.
+5.whoami-displays username. 
+6.cal- opens calendar.
+7.uname- displays the operating system modelled on UNIX.
+8.date- displays the date and time.
+9.time- displays the real time, user time and system time.
+10.ls- displays the filename.
+11.ls-l- list with long format(total no.of directories, name of the file directory,modified date,time and filename).
+12.ls-a- shows the list of hidden files.
+13.ls -F- displays the filename.
+14.ls -R- directory tree with the filename.
