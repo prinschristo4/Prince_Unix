@@ -1,0 +1,9 @@
+Filter commands.								Date:30-01-2018
+1.head-prints the first nine lines of the list given 15.
+2.tail-prints the last 10 lines of the list.(from 6th line).
+3.cut-Remove or "cut out" sections of each line of a file or files
+4.paste-pastes the line.
+5.wc-counts the total no of lines, words and bytes.
+6.sort-sorts the contents of a text file, line by line.
+7.uniq-reports or filters out repeated lines in a file.
+
