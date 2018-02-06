@@ -17,7 +17,7 @@ Ans. ls -l|wc
 Ans. tail -n7 filename
 
 6.Sort only name field from CSEB.csv
-Ans. 
+Ans. cut -d,-f2 filename.csv|sort
 
 7.Replace name with students name.
 Ans. 
