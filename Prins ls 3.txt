@@ -20,7 +20,7 @@ Ans. tail -n7 filename
 Ans. cut -d,-f2 filename.csv|sort
 
 7.Replace name with students name.
-Ans. 
+Ans. cut -d, -f2 cgpa.csv|head -n1|tr "name" "students name"
 
 8.Write a shell script to display only date and time from date command.
 Ans. date +%D...+%R
