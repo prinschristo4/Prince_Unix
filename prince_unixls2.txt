@@ -1,4 +1,5 @@
-UNIX Lab session-02
+UNIX Lab session-02                                                                                       Prince Christopher
+                                                                                                              (16UG10005)
 
 A few commands.
 
