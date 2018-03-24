@@ -1,4 +1,7 @@
-﻿1.Display third column of filename.csv without printing the header “CGPA”, also sort the same.
+													Prince Christopher
+Lab session 3:													    (16UG10005)
+
+1.Display third column of filename.csv without printing the header “CGPA”, also sort the same.
 Ans. cut -d -f3 filename.csv
          grep -d -f3 filename.csv
 
