@@ -1,6 +1,9 @@
-1) To perform file tests and string tests: 
+Lab session 6
+																																																							Prince Christopher
+																																																									(16UG10005)
+1.To perform file tests and string tests
 
------>File tests 
+# File tests 
 		
 if [ -r $date]
 then
@@ -53,7 +56,7 @@ fi
  
 
 
------>String tests
+# String tests
 
 a="abc"
 b="efg"
@@ -95,11 +98,11 @@ fi
 
 
 
-2) File related commands:
+2. File related commands:
 
   i) diff:
-  test---->kkjmkmf
-  test1--->cnhnbjjjoihjjh j n h cnbhc jn ygqijpn
+  test ----> kkjmkmf
+  test1 ---> cnhnbjjjoihjjh j n h cnbhc jn ygqijpn
   $diff test test1:
   result:
    1,2c1
@@ -139,11 +142,13 @@ fi
      cat: test2: No such file or directory
 
 
-3)Setting permissions to the files/directories 
+3. Setting permissions to the files/directories 
+
  ./ls5_for.sh
  bash: ./ls5_for.sh: Permission denied
-  chmod 755 ls5_for.sh
+ chmod 755 ls5_for.sh
  $./ls5_for.sh
+ 
 Enter the value 0f n
 3
 1
@@ -151,14 +156,16 @@ Enter the value 0f n
 3
 
 
-4)Shell script to prefix all the file names with the date dd/mm/yy format:
+4. Shell script to prefix all the file names with the date dd/mm/yy format:
+
  thetime=`date +%d-%m-%Y` #
  for i in *
  mv $i $(date "+_%d%m%Y") ${i%}
  done
 
 
-5)Find command:
+5. Find command:
+
    $find $pwd -name "*.txt" -print
 ./ls3.txt
 ./test.txt
@@ -167,8 +174,8 @@ Enter the value 0f n
 ./ls5.txt
 ./ls2.txt
 
------>xargs command:
+-----> xargs command:
    echo a b c d e f| xargs -n 2
- a b
- c d
-e f
+     a b
+     c d
+     e f
