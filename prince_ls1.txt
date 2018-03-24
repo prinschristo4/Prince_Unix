@@ -1,3 +1,7 @@
+Hello! I'm Prince.
+This is my first Unix lab.
+These are a few Unix Commands.
+
 1.To insert press 'i'.
 2.Press 'Esc'  for command mode.
 3.x-to delete.
