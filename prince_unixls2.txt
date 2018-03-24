@@ -1,5 +1,7 @@
 UNIX Lab session-02
-Commands
+
+A few commands.
+
 1.mkdir- creates directory.
 2.cd- command.
 3.man- shows commands manual.
